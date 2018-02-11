@@ -1,0 +1,4 @@
+for port in "$@"
+do
+    scripts/upload "$port"
+done
